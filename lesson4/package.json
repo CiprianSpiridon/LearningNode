@@ -1,0 +1,24 @@
+{
+  "name": "LearningNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CiprianSpiridon/LearningNode.git"
+  },
+  "author": "Ciprian Spiridon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CiprianSpiridon/LearningNode/issues"
+  },
+  "homepage": "https://github.com/CiprianSpiridon/LearningNode",
+  "private": true,
+  "dependencies": {
+    "async": "^1.4.0"
+  }
+}
