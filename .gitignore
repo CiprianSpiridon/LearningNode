@@ -52,4 +52,5 @@ crashlytics-build.properties
 .vagrant/
 Vagrantfile
 lesson3/node_modules/
+lesson4/node_modules/
 
